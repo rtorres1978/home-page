@@ -7,6 +7,7 @@ import IconNext from "../../components/icon/iconnext";
 import ArticleHome from "./articlehome";
 import { useState } from "react";
 
+//Proyecto
 const ARTICLESHERO = [
   {
     title: " Discover innovative ways to decorate",
