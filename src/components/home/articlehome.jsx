@@ -1,8 +1,10 @@
 import IconArrowShop from "../../components/icon/iconArrowShop";
+// eslint-disable-next-line react/prop-types
 const ArticleHome = ({hero}) => {
   return (
     <>
       <img
+        // eslint-disable-next-line react/prop-types
         src={hero.imgHero}
         alt=""
         className="w-full h-full col-start-1 col-end-4 row-start-1 row-end-3
